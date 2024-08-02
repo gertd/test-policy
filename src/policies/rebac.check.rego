@@ -18,3 +18,4 @@ allowed {
     "subject_id": input.user.id
   })
 }
+
